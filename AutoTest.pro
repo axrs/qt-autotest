@@ -21,4 +21,5 @@ HEADERS += \
 
 OTHER_FILES += AutoTest.pri
 
-
+DISTFILES += \
+    readme.md
